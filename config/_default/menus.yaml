@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 78226ffa-6ced-e850-f5eb-0c581e83157c
+  name: Related Courses
+  pageRef: /pages/related-courses
+  weight: 10
+- identifier: ab14d1f0-2739-2c49-d472-d29fb74a7e42
+  name: Laser Fundamentals I
+  pageRef: /resources/laser-fundamentals-i
+  weight: 20
+- identifier: 578e602d-5235-f309-9f6b-61f761c519ab
+  name: Laser Fundamentals II
+  pageRef: /resources/laser-fundamentals-ii
+  weight: 30
+- identifier: 7fc14ad9-1599-89f7-1311-ccb748aa2523
+  name: Laser Fundamentals III
+  pageRef: /resources/laser-fundamentals-iii
+  weight: 40
+- identifier: 869de5aa-f938-562f-23d7-2377e25bb91a
+  name: Laser Fundamentals III (cont.)
+  pageRef: /resources/laser-fundamentals-iii-cont
+  weight: 50
+- identifier: cdf7cd35-902f-bddd-3b0d-0c53aa48ef4e
+  name: Fiberoptics Fundamentals
+  pageRef: /resources/fiberoptics-fundamentals
+  weight: 60
